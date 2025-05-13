@@ -1,6 +1,6 @@
 # Peptide‑Organic Library Generator
 
-A turnkey toolkit that builds large‑scale libraries of peptide–organic hybrids (or pure peptides) ready for docking/MD.
+A turnkey toolkit that builds large‑scale libraries of peptide–organic hybrids ready for docking/MD.
 
 ---
 
